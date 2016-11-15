@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Dracula Theme (https://draculatheme.com/)
+
+[HKEY_CURRENT_USER\Console]   ; Mapping      => Dracula
+"ColorTable00"=dword:00362A28 ; Black        => Background   #282a36
+"ColorTable01"=dword:00A47262 ; Blue         => Comment      #6272a4
+"ColorTable02"=dword:007BFA50 ; Green        => Green        #50fa7b
+"ColorTable03"=dword:00FDE98B ; Aqua         => Cyan         #8be9fd
+"ColorTable04"=dword:005555FF ; Red          => Red          #ff5555
+"ColorTable05"=dword:00F993BD ; Purple       => Purple       #bd93f9
+"ColorTable06"=dword:008CFAF1 ; Yellow       => Yellow       #f1fa8c
+"ColorTable07"=dword:00F2F8F8 ; White        => Foreground   #f8f8f2
+"ColorTable08"=dword:005A4744 ; Gray         => Current Line #44475a
+"ColorTable09"=dword:00ff0000 ; Light Blue   => 
+"ColorTable10"=dword:0000ff00 ; Light Green  => 
+"ColorTable11"=dword:00ffff00 ; Light Aqua   => 
+"ColorTable12"=dword:00C679FF ; Light Red    => Pink         #ff79c6
+"ColorTable13"=dword:00ff00ff ; Light Purple => 
+"ColorTable14"=dword:006CB8FF ; Light Yellow => Orange       #ffb86c
+"ColorTable15"=dword:00ffffff ; Bright White =>
+"ScreenColors"=dword:00000007 ; 
